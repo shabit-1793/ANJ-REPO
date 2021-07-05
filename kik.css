@@ -11,25 +11,21 @@
         border-radius:0% 0% 50% 50%;
         transform: scaleX(1);
 }
-.hey{
-    display: flex;
-    background-image: url(agun/pad3.jpg);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: 100%;
-    font-size: x-large;
 
     
 
 }
-.p1{
+.jr{
     width: 50%;
     margin: 5%;
 }
-.p1 img{
+.jr img{
+
     width: 120%;
     heigt: 600px;
     width: 600px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 
 }
 body{
@@ -38,12 +34,75 @@ body{
 span{
     color: brown;
 }
-.link-button{
-    text-decoration: none;
-    background-color: rgb(161, 82, 155);
-    padding: 10px 40px;
-    border-radius: 20px;
+.jr{
+    display: flex;
+    background-image:url(agun/1s.jpg);
+    background-repeat:no-repeat ;
+    background-position: left;
+    background-size: 100%;
+   
+    
+}
+.cp{
+    width:50%;
+    margin: 5%;
+}
+.ku{
+    display: flex;
+    background-image: url(agun/bc4.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
 }
 
+.half{
+    width: 50%;
+    margin:5%
+}
+.half img{
+    width:100%;
 
+}
+.foul{
+      text-decoration: none; 
+      background-color: greenyellow;  
+      padding: 10px 40px;
+      border-radius:20px;
+}
 
+.link-button{
+    text-decoration: none;
+    background-color: rgb(67, 89, 212);
+    padding: 10px 40px;
+    border-radius: 20px;
+    
+}
+
+.hey{
+    display: flex;
+    background-image: url(agun/pad3.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+   
+   
+.designer{
+    color: blue;
+
+}
+.css{
+    color:rgb(180, 113, 25):
+}
+
+}
+.x{
+    box-shadow: 5px 5px 10px 5px rgb(69, 93, 201);
+    width: 30%;
+    padding:2.5%;
+    
+    
+}
+
+© 2021 GitHub, Inc.
