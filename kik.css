@@ -1,0 +1,49 @@
+.b{
+    text-align: center;
+    font-color:rgb(255, 255, 255);
+    font: 60px;
+    font-size: xx-larges;
+}
+.o1{
+        
+        
+        background-color:blueviolet;
+        border-radius:0% 0% 50% 50%;
+        transform: scaleX(1);
+}
+.hey{
+    display: flex;
+    background-image: url(agun/pad3.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+    font-size: x-large;
+
+    
+
+}
+.p1{
+    width: 50%;
+    margin: 5%;
+}
+.p1 img{
+    width: 120%;
+    heigt: 600px;
+    width: 600px;
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: brown;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(161, 82, 155);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+
+
