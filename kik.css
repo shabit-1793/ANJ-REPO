@@ -104,5 +104,21 @@ span{
     
     
 }
-
+footer{
+    color: teal;
+    text-align: center;
+}
+.designer{
+    color: teal;
+font-size: x-large;
+}
+.css{
+    color: teal;
+    font: x-large;
+}
+.skill{
+    color:turquoise;
+    font: x-large;
+    background-color: rgb(31, 11, 207);
+}
 © 2021 GitHub, Inc.
